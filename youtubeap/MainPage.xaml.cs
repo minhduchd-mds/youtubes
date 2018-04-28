@@ -60,10 +60,7 @@ namespace youtubeap
 
       
 
-        private void NextPage_Click(object sender, Windows.UI.Xaml.RoutedEventArgs e)
-        {
-            GetVideo();
-        }
+    
 
         private void lv_ItemClick(object sender, ItemClickEventArgs e)
         {
