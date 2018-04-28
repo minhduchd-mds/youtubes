@@ -21,7 +21,7 @@
                   ItemClick="lv_ItemClick" IsItemClickEnabled="True" Margin="12,-38,-12,92">
           
         </ListView>
-        <Button Content="NextPage" HorizontalAlignment="Left" Margin="422,918,0,0" VerticalAlignment="Top" Click="NextPage_Click"/>
+        
 
 
     </Grid>
