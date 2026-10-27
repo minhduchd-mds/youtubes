@@ -1,0 +1,11 @@
+# Do not commit private signing keys or credentials
+*.pfx
+*.p12
+*.p8
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+**/secrets.json
+**/service-account.json
